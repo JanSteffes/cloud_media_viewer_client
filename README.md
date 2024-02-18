@@ -1,16 +1,9 @@
-# cloud_media_viewer_client
+# Cloud Media Viewer - Client
 
-A new Flutter project.
+A project in development. As the name indicated - a client to show pictures/videos comming from cloud storages like OneDrive, Google Drive or Mega.
+First goal is to integrate OneDrive.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is the client project to show the media.
+The main part (connecting to the cloud storages, requesting media, ...) is done in another project, see TODO, which is an ASP .Net Backend.
