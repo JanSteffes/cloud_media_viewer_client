@@ -6,4 +6,4 @@ First goal is to integrate OneDrive.
 ## Getting Started
 
 This is the client project to show the media.
-The main part (connecting to the cloud storages, requesting media, ...) is done in another project, see TODO, which is an ASP .Net Backend.
+The main part (connecting to the cloud storages, requesting media, ...) is done in another project, see [Cloud Media Viewer Backend](https://github.com/JanSteffes/CloudMediaViewerBackend).
