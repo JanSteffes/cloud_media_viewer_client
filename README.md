@@ -7,3 +7,11 @@ First goal is to integrate OneDrive.
 
 This is the client project to show the media.
 The main part (connecting to the cloud storages, requesting media, ...) is done in another project, see [Cloud Media Viewer Backend](https://github.com/JanSteffes/CloudMediaViewerBackend).
+
+
+
+## For (and my own notes) Linux see
+
+https://medium.com/@Toglefritz/build-a-flutter-app-for-linux-from-a-windows-machine-4ca3f69e303d
+and/or https://dev.to/mariasitumbeko/creating-a-flutter-app-on-windows-with-wsl2-3an0
+and maybe also https://joshkautz.medium.com/installing-flutter-2-0-on-wsl2-2fbf0a354c78
